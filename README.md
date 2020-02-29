@@ -3,4 +3,4 @@
 # Иноятулло Файзуллоев
   Мои домашние задания
   
-  [Урок 12](https://inoyatullo.github.io/lesson_12.2/ "Описание")
+  [Урок 12](https://inoyatullo.github.io/lesson_12.2/ "Описание") - Работа с репозиторием на GitHub
